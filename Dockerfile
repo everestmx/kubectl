@@ -1,6 +1,6 @@
 FROM alpine
 
-LABEL maintainer="NEO Dev <everestmx@gmail.com>"
+MAINTAINER "NEO Dev <everestmx@gmail.com>"
 
 ENV KUBE_CONFIG=""
 ENV KUBE_VERSION="v1.11.3"
